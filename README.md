@@ -1,6 +1,7 @@
 # Memory Game Project
 
-<h3>This is a simple game built to test a users memory. There's a deck of cards with different icons.</h3>
+This is a simple game built to test a users memory. There's a deck of cards with different icons.
+<br>
 
 ## [View Demo](https://prashantsingh20.github.io/Memory-Game/)
 
