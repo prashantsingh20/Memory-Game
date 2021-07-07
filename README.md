@@ -1,12 +1,12 @@
 # Memory Game Project
 
-<h1>This is a simple game built to test a users memory. There's a deck of cards with different icons.</h1>
+<h2>This is a simple game built to test a users memory. There's a deck of cards with different icons.</h2>
 
-## [View Demo](https://prashantsingh20.github.io/My-Personal-Website/)
+## [View Demo](https://prashantsingh20.github.io/Memory-Game/)
 
 If you have any crazy idea then please pull request...
 
-## Result 
+
 ![memory game](https://user-images.githubusercontent.com/68744875/124828623-25122780-df95-11eb-9188-eb4f66defdf9.PNG)
 
 
